@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "base62": "^2.0.1",
+    "dotenv": "^16.1.4",
+    "kafkajs": "^2.2.4",
+    "mongoose": "^7.2.3"
+  }
+}
